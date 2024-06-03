@@ -10,7 +10,7 @@ Welcome to @Arce-Mdina GitHub profile! I am a software developer based in Europe
   - React.js
 
 # 🌱 My Projects
-- A new homepage
+- My Portfolio
 - A base for Python
 - An ultimate guide to Malta
 - More is coming! :)
