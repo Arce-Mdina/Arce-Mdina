@@ -24,4 +24,4 @@ You will **never** be able to reach me!
 
 # GitHub Stats
 ![Arce-Mdina Stats](https://github-readme-stats.vercel.app/api?username=arce-mdina&show_icons=true&theme=transparent)
-![Arce-Mdina Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arce-mdina&show_icons=true)
+![Arce-Mdina Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arce-mdina&show_icons=true&layout=donut)
