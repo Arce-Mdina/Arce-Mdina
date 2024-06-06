@@ -13,6 +13,7 @@ Welcome to @Arce-Mdina GitHub profile! I am a software developer based in Europe
 - My Portfolio
 - A base for Python
 - An ultimate guide to Malta
+- Covid-19 Info app (Constructing)
 - More is coming! :)
 
 # 📫 How to reach me
