@@ -1,5 +1,5 @@
 # 👋 Hello there!
-Welcome to @Arce-Mdina GitHub profile! I am a software developer based in Europe and now this is my main website center in Europe.
+Welcome to @Arce-Mdina GitHub profile! This is the source code profile for Filfoletta.eu's projects. Filfoletta.eu is a website based in Europe and wants to give the world & community clear information to areas of interest, e.g. economics.
 
 # 👨‍💻 My languages
 - HTML
@@ -10,10 +10,10 @@ Welcome to @Arce-Mdina GitHub profile! I am a software developer based in Europe
   - React.js
 
 # 🌱 My Projects
-- My Portfolio
-- A base for Python
+- Filfoletta.eu's homepage
 - An ultimate guide to Malta
-- Covid-19 Info app (Constructing)
+- Lehman Brothers case study
+- A base for Python (constructing)
 - More is coming! :)
 
 # 📫 How to reach me
