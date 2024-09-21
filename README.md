@@ -1,5 +1,5 @@
 # 👋 Hello there!
-Welcome to @Arce-Mdina GitHub profile! This is the source code profile for Filfoletta.eu's projects. Filfoletta.eu is a website based in Europe and wants to give the world & community clear information to areas of interest, e.g. economics.
+Welcome to @Arce-Mdina GitHub profile! This is where Filfoletta.eu stores all the source code, so you can use it for reference and inspiration!
 
 # 👨‍💻 My languages
 - HTML
