@@ -1,5 +1,5 @@
 # 👋 Hello there!
-Welcome to @Arce-Mdina GitHub profile! This is where Filfoletta.eu stores all the source code, so you can use it for reference and inspiration!
+Welcome to @Arce-Mdina GitHub profile! This is where Mdina.eu stores all the source code, so you can use it for reference and inspiration!
 
 # 👨‍💻 My languages
 - HTML
@@ -10,7 +10,7 @@ Welcome to @Arce-Mdina GitHub profile! This is where Filfoletta.eu stores all th
   - React.js
 
 # 🌱 My Projects
-- Filfoletta.eu's homepage
+- Mdina.eu's homepage
 - An ultimate guide to Malta
 - Lehman Brothers case study
 - A base for Python (constructing)
