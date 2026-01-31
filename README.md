@@ -5,16 +5,7 @@ Welcome to @Arce-Mdina GitHub profile! This is where Filfla.eu stores all the so
 - HTML
 - CSS
 - Python
-  - Tkinter (Python GUI) 
 - JavaScript
-  - React.js
-
-# 🌱 My Projects
-- Filfla.eu's homepage
-- An ultimate guide to Malta
-- Lehman Brothers case study
-- A base for Python (constructing)
-- More is coming! :)
 
 # 📫 How to reach me
 You can contact me by email, via WhatsApp, or you can come to my place and we can meet up!
