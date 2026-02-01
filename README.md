@@ -1,5 +1,5 @@
 # 👋 Hello there!
-Welcome to @AlpineStone GitHub profile!
+Welcome to @AlpenStone GitHub profile!
 
 # 👨‍💻 Languages
 - HTML
