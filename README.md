@@ -8,9 +8,9 @@ Welcome to @AlpineStone GitHub profile! This is where Filfla.eu stores all the s
 - JavaScript
 
 # 📫 How to reach me
-You can contact me by email, via WhatsApp, or you can come to my place and we can meet up!
+You can contact me.
 
 # ⚡ Fun fact:
 You will **never** be able to reach me!
 
-![AlpineStone Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpinestone&show_icons=true&layout=donut)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlpineStone)](https://github.com/anuraghazra/github-readme-stats)
